@@ -2,6 +2,7 @@
   <img src="docs/icon.png" width="120" alt="White Bow Logo"/>
 </p>
 
+
 <h1 align="center">White Bow 🎵</h1>
 
 <p align="center">
@@ -16,6 +17,10 @@
   <img src="https://img.shields.io/github/license/ramm-fr/White-bow?style=for-the-badge" alt="License"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Matrix Snake"/>
+</p>
+
 ---
 
 ## 📱 Screenshots
@@ -27,10 +32,29 @@
   <img src="docs/screenshots/screenshot4.jpg" width="200"/>
 </p>
 
+---
+
+```text
+$ whitebow --boot
+
+[■■■■■■■■■■■■■■■■■■■■] 100%
+
+✓ Loading Music Engine
+✓ Connecting InnerTube
+✓ Loading Lyrics
+✓ Initializing Equalizer
+✓ Preparing Player
+✓ Ready
+
+Now Playing ♪ White Bow
+```
+
+---
 
 ## ✨ Unique Features
 
 ### 🃏 Discover — Tinder-Style Music Discovery
+
 Swipe through songs like never before. Right swipe to like, left to skip. Smart recommendations that never repeat.
 
 - Smooth card swipe animations
@@ -39,6 +63,7 @@ Swipe through songs like never before. Right swipe to like, left to skip. Smart 
 - Like/Skip/Share in one place
 
 ### 🖼️ Song Share Cards
+
 Share what you're listening to with beautiful promo cards — like Spotify but customizable.
 
 - 5 card template styles (Golden, CD Case, Gradient, Neon, Vintage)
@@ -47,6 +72,7 @@ Share what you're listening to with beautiful promo cards — like Spotify but c
 - One-tap share to any social app
 
 ### 🔄 In-App Auto Updates
+
 Never miss a new version. App checks GitHub releases automatically.
 
 - Silent background download
@@ -74,7 +100,7 @@ Never miss a new version. App checks GitHub releases automatically.
 
 ## 🔗 Integrations
 
-```
+```text
 ┌─────────────────────────────────────────┐
 │  Discord Rich Presence    ✅ Supported  │
 │  Last.fm Scrobbling       ✅ Supported  │
@@ -85,7 +111,13 @@ Never miss a new version. App checks GitHub releases automatically.
 └─────────────────────────────────────────┘
 ```
 
+---
 
+```text
+═══════════════════════════════════════════════
+      ♪ WHITE BOW AUDIO ENGINE ♪
+═══════════════════════════════════════════════
+```
 
 ## 🛠️ Tech Stack
 
@@ -101,11 +133,11 @@ Never miss a new version. App checks GitHub releases automatically.
 
 ---
 
-
-
 ## 🤝 Contributing
 
 Pull requests welcome! For major changes, open an issue first.
+
+---
 
 ## 📄 License
 
@@ -116,4 +148,6 @@ Pull requests welcome! For major changes, open an issue first.
 <p align="center">
   Made with ❤️ by <a href="https://github.com/ramm-fr">ramm-fr</a>
 </p>
+
+
 # White-bow
